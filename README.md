@@ -44,12 +44,12 @@
 ### <i>Minhas estatísticas 🏆</i>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelalmeida95&theme=github_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelalmeida95&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelalmeida58&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelalmeida58&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelalmeida95&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelalmeida58&theme=github_dark"/>
 </div>
 
 <br>
@@ -57,7 +57,7 @@
 ##
 
 <div>
-    <img align="right" alt="Bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida95"/>
+    <img align="right" alt="Bem-vindo!" src="https://visitor-badge.glitch.me/badge?page_id=samuelalmeida58"/>
 </div>
  
  <br>
