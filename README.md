@@ -2,7 +2,17 @@
 
 ###  <i>Olá, sou Samuel Almeida!</i> 🚀
 
-<i> <strong> Atualmente estou desenvolvendo soluções com Spring-Boot e Java EE(PrimeFaces) no backend, gosto muito de aprender e estou sempre em busca de novos desafios! Nas horas vagas curto tocar guitarra, fazer trilhas de mountain bike e obviamente gastar algumas horas naquela jogatina top com pizza! #neverstopplaying</strong> </i> 
+<i> <strong> Sou desenvolvedor Java com sólida experiência em backend, especializado em construir soluções robustas e escaláveis para aplicações corporativas. Minha expertise abrange desde o desenvolvimento de APIs RESTful utilizando Spring Boot até a implementação de microsserviços, sempre aplicando padrões de projeto e princípios de programação orientada a objetos (OOP).
+
+Atuo com um vasto ecossistema de tecnologias, como Java 8+, PrimeFaces, EJB, e frameworks como Hibernate/JPA para persistência de dados. Tenho experiência em trabalhar com bancos de dados relacionais como MySQL, Sybase e Oracle, além de soluções NoSQL como MongoDB, garantindo a performance e a eficiência no gerenciamento de dados.
+
+Em termos de ferramentas de desenvolvimento, utilizo Maven e Gradle para build de projetos, com controle de versão via Git e SVN, além de integração contínua com Jenkins. Também aplico práticas de Test-Driven Development (TDD), usando JUnit para testes automatizados, garantindo a qualidade do código.
+
+Tenho experiência em DevOps, trabalhando com Docker para a contenção de aplicações e integrações com a AWS, utilizando serviços como AWS S3. Adicionalmente, sou familiarizado com a implementação de sistemas de mensageria utilizando RabbitMQ.
+
+Estou sempre em busca de adotar boas práticas de desenvolvimento, com foco em performance, segurança e escalabilidade. Além disso, sigo princípios de arquitetura de software, tanto para aplicações monolíticas quanto para arquiteturas baseadas em microsserviços, sempre atento às necessidades de alta disponibilidade.
+
+Comprometido com o aprendizado contínuo, meu objetivo é crescer como especialista em desenvolvimento Java e acompanhar as tendências do mercado de software.</strong> </i> 
 
 ##
 
